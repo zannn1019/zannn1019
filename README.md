@@ -25,12 +25,12 @@ I'm a passionate full-stack web developer specializing in building dynamic and s
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zannn1019&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zannn1019&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Let's Connect!
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- GitHub: [github.com/yourusername](https://github.com/zannn1019)  
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)  
 
