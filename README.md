@@ -1,42 +1,37 @@
-Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Your Name] 👋
 
-🚀 Full-Stack Web Developer
+## 🚀 Full-Stack Web Developer
 
 I'm a passionate full-stack web developer specializing in building dynamic and scalable web applications. My expertise includes:
 
-🔹 Frontend:
+### 🔹 Frontend:
 
-Nuxt.js & Vue.js - Creating fast and efficient UI/UX experiences
+- **Nuxt.js** & **Vue.js** - Creating fast and efficient UI/UX experiences
 
-🔹 Backend:
+### 🔹 Backend:
 
-PHP & Laravel - Developing robust and secure server-side applications
+- **PHP & Laravel** - Developing robust and secure server-side applications
 
-🔹 DevOps & CI/CD:
+### 🔹 DevOps & CI/CD:
 
-Jenkins & Docker - Implementing CI/CD pipelines for seamless deployment
+- **Jenkins & Docker** - Implementing CI/CD pipelines for seamless deployment
 
-🔧 Tech Stack & Tools
+## 🔧 Tech Stack & Tools
 
-Frontend: Vue.js, Nuxt.js, Tailwind CSS
+- **Frontend**: Vue.js, Nuxt.js, Tailwind CSS  
+- **Backend**: PHP, Laravel, MySQL/MongoDB  
+- **DevOps**: Docker, Jenkins, GitHub Actions  
+- **Others**: REST APIs, GraphQL, WebSockets  
 
-Backend: PHP, Laravel, MySQL/MongoDB
+## 📊 GitHub Stats
 
-DevOps: Docker, Jenkins, GitHub Actions
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
-Others: REST APIs, GraphQL, WebSockets
+## 📫 Let's Connect!
 
-📊 GitHub Stats
-
-
-
-📫 Let's Connect!
-
-GitHub: github.com/yourusername
-
-LinkedIn: linkedin.com/in/yourprofile
-
-Portfolio: yourwebsite.com
+- GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
 
 🚀 Always learning, always coding!
-
