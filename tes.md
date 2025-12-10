@@ -12,10 +12,10 @@
     <a href="https://webzan.my.id" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-webzan.my.id-7289da?style=for-the-badge&logo=globe&logoColor=white" height="30" />
     </a>
-    <a href="https://linkedin.com/in/your-linkedin">
+    <!-- <a href="https://linkedin.com/in/your-linkedin">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-    </a>
-    <a href="mailto:your-email@example.com">
+    </a> -->
+    <a href="mailto:fauzanguci1019@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
     </a>
   </p>
