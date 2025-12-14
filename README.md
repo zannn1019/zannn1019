@@ -64,7 +64,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=zannn1019&icon=5&color=2" width="100px"/>
-</div>
