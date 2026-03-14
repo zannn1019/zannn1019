@@ -9,7 +9,7 @@
   </a>
 
   <p>
-    <a href="https://webzan.my.id" target="_blank">
+    <a href="https://zanio.xyz" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-webzan.my.id-7289da?style=for-the-badge&logo=globe&logoColor=white" height="30" />
     </a>
     <!-- <a href="https://linkedin.com/in/your-linkedin">
